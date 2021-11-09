@@ -24,10 +24,10 @@ public class UserController {
 	//Create User List 
 	private List<User>getDefaultUser(){
 		
-		users.add(new User(101,"Devesh","Surat","Gujarat"));
-		users.add(new User(102,"Jagmohan","Junagarh","Odisha"));
-		users.add(new User(103,"Rajkumar","Baripada","Odisha"));
-		users.add(new User(104,"Chitresh Bhargava","Jaipur","Rajasthan"));
+		users.add(new User(101,"Devika Patel","Surat","Gujarat"));
+		users.add(new User(102,"Jake Sahu","Junagarh","Odisha"));
+		users.add(new User(103,"Raj Sahu","Baripada","Odisha"));
+		users.add(new User(104,"Chitra Patel","Jaipur","Rajasthan"));
 		users.add(new User(105,"Sofia Nayak","Sambalpur","Odisha"));
 		
 		return users;
